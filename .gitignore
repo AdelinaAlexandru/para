@@ -16,3 +16,4 @@ nb-configuration.xml
 **/data/
 *.iml
 .idea
+*.pid
